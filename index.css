@@ -1,1 +1,6 @@
-
+header{
+background-color: rgba(206, 236, 157, 0.7);
+border: 5px solid rgb(117, 157, 52);
+display: block;
+text-align:right;
+}
